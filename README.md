@@ -119,8 +119,7 @@ The interface includes:
 
 ## 📸 Preview
 
-![Calculator Preview](cal.PNG)
-
+![Calculator Preview](https://code-alpha-calculator-8ukm.vercel.app/cal.PNG)
 ## 👨‍💻 Developer
 
 **Noor Abbas Jafri**
