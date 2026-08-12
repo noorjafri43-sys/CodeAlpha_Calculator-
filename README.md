@@ -119,7 +119,7 @@ The interface includes:
 
 ## 📸 Preview
 
-![Calculator Preview](preview.png)
+![Calculator Preview](cal.PNG)
 
 ## 👨‍💻 Developer
 
